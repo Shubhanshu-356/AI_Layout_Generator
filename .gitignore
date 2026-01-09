@@ -1,0 +1,10 @@
+
+## **FILE 5: `.gitignore`**
+
+```gitignore
+__pycache__/
+*.pyc
+venv/
+.env
+outputs/*.png
+.DS_Store
